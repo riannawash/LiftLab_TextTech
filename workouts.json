@@ -1,0 +1,62 @@
+[
+  {
+    "Workout Name": "Push-up", 
+    "Muscle Group": "Chest, Triceps, Shoulders"
+  },
+  {
+    "Workout Name": "Chest Press",
+    "Muscle Group": "Chest, Triceps, Shoulders"
+  },
+  {
+    "Workout Name": "Squat",
+    "Muscle Group": "Quadriceps, Hamstrings, Glutes"
+  },
+  {
+    "Workout Name": "Bicep Curl",
+    "Muscle Group": "Biceps"
+  },
+  {
+    "Workout Name": "Lunge",
+    "Muscle Group": "Quadriceps, Hamstrings, Glutes"
+  },
+  {
+    "Workout Name": "Pull Ups",
+    "Muscle Group": "Back, Biceps"
+  },
+  {
+    "Workout Name": "Deadlifts",
+    "Muscle Group": "Hamstrings, Back, Glutes"
+  },
+  {
+    "Workout Name": "Calf Raises",
+    "Muscle Group": "Calves"
+  },
+  {
+    "Workout Name": "Plank",
+    "Muscle Group": "Core, Abs"
+  },
+  {
+    "Workout Name": "Deadbugs",
+    "Muscle Group": "Core, Abs"
+  },
+  {
+    "Workout Name": "Hip Thrusts",
+    "Muscle Group": "Glutes, Hamstrings"
+  },
+  {
+    "Workout Name": "KAS Glute Bridges",
+    "Muscle Group": "Glutes"
+  },
+  {
+    "Workout Name": "Tricep Kickback",
+    "Muscle Group": "Triceps"
+  },
+  {
+    "Workout Name": "Barbell Row",
+    "Muscle Group": "Back"
+  },
+  {
+    "Workout Name": "Lat Pulldown",
+    "Muscle Group": "Back"
+  }
+]
