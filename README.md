@@ -19,11 +19,8 @@ To install:
 - Open a terminal in the directory containing the following script: python liftlab.py
 
 To Use:
-Searching by Muscle Group - 
-Enter 'muscle' when prompted for the search type. Input the desired muscle group (e.g., 'abs', 'arms').
-Searching by Workout Name - 
-Enter 'workout' when prompted for the search type. Input the name of the workout you want to search for (e.g., 'push-ups', 'squats').
-Exiting the Program - 
-Enter 'exit' when prompted for the search type to exit the program.
+- Searching by Muscle Group: Enter 'muscle' when prompted for the search type. Input the desired muscle group (e.g., 'abs', 'arms').
+- Searching by Workout Name: Enter 'workout' when prompted for the search type. Input the name of the workout you want to search for (e.g., 'push-ups', 'squats').
+- Exiting the Program: Enter 'exit' when prompted for the search type to exit the program.
 
 I welcome your feedback and contributions to enhance the functionality and user experience of LiftLab.
